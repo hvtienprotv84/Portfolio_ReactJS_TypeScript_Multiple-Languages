@@ -2,6 +2,7 @@
 
 - ReactJS
 - TypeScript
+- Tailwind CSS
 - Email.js
 - devicons-react
 
