@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio ReactJS Pro</h1>
+<h1 align="center">Portfolio ReactJS - TypeScript Pro</h1>
 
 - ReactJS
 - TypeScript
