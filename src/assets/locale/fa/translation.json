@@ -1,0 +1,53 @@
+{
+  "navbar": {
+    "work": "Dự Án",
+    "skills": "Kỹ Năng",
+    "about": "Về Tôi",
+    "contact": "Liên Hệ"
+  },
+  "header": {
+    "hello": "Xin Chào, Tôi là",
+    "Welcome to my slice of the internet": "Huỳnh Vĩnh Tiến",
+    "cancel": "cancel",
+    "continue": "continue"
+  },
+  "content": {
+    "amirrahemi": "Huỳnh Vĩnh Tiến",
+    "reactjs": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+
+    "my interests": "Sở Thích Của Tôi",
+    "music": "Âm Nhạc",
+    "sport": "Thể Thao",
+    "game": "Game",
+    "movie": "Xem Phim",
+    "photo": "Chụp Ảnh",
+    "travel": "Du Lịch",
+
+    "my skills": "Kỹ Năng Của Tôi",
+
+    "download cv": "Tải CV",
+    "projects": "Dự Án",
+    "pr": "I'm a developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js",
+    
+    "e-commerce": "E-Commerce",
+    "shopping": "Our E-commerce project, powered by React.js, Next.js, and MongoDB, reimagines the online shopping experience. Seamlessly blending the frontend magic of React.js with the server-side rendering capabilities of Next.js",
+    
+    "rent car": "rent car",
+    "rent": "Experience the future of car rental services with our project, leveraging React.js and Next.js. With the power of Tailwind CSS, we've crafted a sleek and intuitive interface that seamlessly adapts to your preferences.",
+    
+    "food delivery": "food delivery",
+    "food": "Our Food Delivery project, powered by MongoDB, offers a seamless ordering experience in multiple languages. With MongoDB's flexible data management, we ensure efficient order processing and personalized user experiences.",
+    
+    "contact": "Liên Hệ",
+    
+    "copy": " 2024 Mọi Bản Quyền Thuộc về Huỳnh Vĩnh Tiến",
+    "made with": "Version",
+    "in rasht": " 1.0",
+
+    "name": " Họ và Tên",
+    "email": "Email",
+    "message": " Nội Dung",
+    "send": " Gửi"
+    
+  }
+}

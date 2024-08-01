@@ -1,0 +1,54 @@
+{
+    "navbar": {
+      "work": "Dự Án",
+      "skills": "Kỹ Năng",
+      "about": "Về Tôi",
+      "contact": "Liên Hệ"
+    },
+    "header": {
+      "hello": "Xin Chào, Tôi là",
+      "Welcome to my slice of the internet": "Huỳnh Vĩnh Tiến",
+      "cancel": "cancel",
+      "continue": "continue"
+    },
+    "content": {
+      "amirrahemi": "Huỳnh Vĩnh Tiến",
+      "reactjs": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  
+      "my interests": "Sở Thích Của Tôi",
+      "music": "Âm Nhạc",
+      "sport": "Thể Thao",
+      "game": "Game",
+      "movie": "Xem Phim",
+      "photo": "Chụp Ảnh",
+      "travel": "Du Lịch",
+  
+      "my skills": "Kỹ Năng Của Tôi",
+  
+      "download cv": "Tải CV",
+      "projects": "Dự Án",
+      "pr": "I'm a developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js",
+      
+      "e-commerce": "Dự Án ReactJS",
+      "shopping": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+      "rent car": "Dự Án VueJS",
+      "rent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+      "food delivery": "Dự Án NextJS",
+      "food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+      "contact": "Liên Hệ",
+      
+      "copy": " 2024 Mọi Bản Quyền Thuộc về Huỳnh Vĩnh Tiến",
+      "made with": "Phiên bản",
+      "in rasht": " 1.0",
+
+      "name": " Họ và Tên",
+      "email": "Địa Chỉ Email",
+      "message": " Nội Dung",
+      "send": " Gửi"
+      
+    }
+  }
+  

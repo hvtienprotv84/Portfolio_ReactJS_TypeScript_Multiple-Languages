@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "work": "projects",
+    "skills": "skills",
+    "about": "about",
+    "contact": "contact"
+  },
+  "header": {
+    "hello": "Hi, I'm",
+    "Welcome to my slice of the internet": "Huynh Vinh Tien",
+    "cancel": "cancel",
+    "continue": "continue"
+  },
+  "content": {
+    "amirrahemi": "Huynh Vinh Tien",
+    "reactjs": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+
+    "my interests": "My Interests",
+    "music": "music",
+    "sport": "sport",
+    "game": "game",
+    "movie": "movie",
+    "photo": "photo",
+    "travel": "travel",
+
+    "my skills": "my skills",
+
+    "download cv": "Download CV",
+    "projects": "projects",
+    "pr": "I'm a developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js",
+    
+    "e-commerce": "Portfolio React",
+    "shopping": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+    "rent car": "Portfolio VueJS",
+    "rent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+    "food delivery": "Portfolio NextJS",
+    "food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    
+    "contact": "Contact",
+    
+    "copy": " 2024 All Copyrights Reserved to Huynh Vinh Tien",
+    "made with": "Version",
+    "in rasht": " 1.0",
+
+    "name": " Full Name",
+    "email": "Email Address",
+    "message": " Contents",
+    "send": " Send"
+  }
+}
