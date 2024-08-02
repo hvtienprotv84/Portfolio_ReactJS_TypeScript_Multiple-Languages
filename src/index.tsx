@@ -8,13 +8,14 @@ import App from './App';
 import translation_en from "./assets/locale/en/translation.json"
 import translation_fa from "./assets/locale/fa/translation.json"
 import translation_vn from "./assets/locale/vn/translation.json"
+import translation_kr from "./assets/locale/kr/translation.json"
 
 import i18next from 'i18next';
 import { I18nextProvider } from 'react-i18next';
 
 i18next.init({
   interpolation: { escapeValue: false },
-  lng: localStorage.getItem("language") || 'en' || 'vn',
+  lng: localStorage.getItem("language") || 'en' || 'vn' || 'kr',
   resources: {
     en: {
       global: translation_en,
@@ -24,6 +25,9 @@ i18next.init({
     },
     vn: {
       global: translation_vn,
+    },
+    kr: {
+      global: translation_kr,
     },
   },
 })

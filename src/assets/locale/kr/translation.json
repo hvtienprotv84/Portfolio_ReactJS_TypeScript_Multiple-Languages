@@ -1,0 +1,54 @@
+{
+    "navbar": {
+      "work": "프로젝트",
+      "skills": "기술",
+      "about": "나에 대해서",
+      "contact": "연락하다"
+    },
+    "header": {
+      "hello": "안녕하세요",
+      "Welcome to my slice of the internet": "Huynh Vinh Tien",
+      "cancel": "cancel",
+      "continue": "continue"
+    },
+    "content": {
+      "amirrahemi": "Huynh Vinh Tien",
+      "reactjs": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  
+      "my interests": "내 취향",
+      "music": "음악",
+      "sport": "스포츠",
+      "game": "게임",
+      "movie": "영화를 감상",
+      "photo": "사진을 찍다",
+      "travel": "관광 여행",
+  
+      "my skills": "내 기술들",
+  
+      "download cv": "이력서 다운로드",
+      "projects": "프로젝트",
+      "pr": "I'm a developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js",
+      
+      "e-commerce": "React 프로젝트",
+      "shopping": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+      "rent car": "VueJS 프로젝트",
+      "rent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+      "food delivery": "NextJS 프로젝트",
+      "food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      
+      "contact": "연락하다",
+      
+      "copy": " 2024 판권 소유 Huỳnh Vĩnh Tiến",
+      "made with": "버전",
+      "in rasht": " 1.0",
+
+      "name": " 이름과 성",
+      "email": "이메일 주소",
+      "message": " 콘텐츠",
+      "send": " 보내다"
+      
+    }
+  }
+  
